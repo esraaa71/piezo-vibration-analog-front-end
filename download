@@ -1,0 +1,22 @@
+# LTspice generated outputs and caches (keep source .asc and useful plot settings .plt)
+*.raw
+*.log
+*.net
+*.fft
+*.bak
+*.tmp
+*.dmp
+*.cache
+
+# KiCad generated local/cache files (retain project, schematics, PCB, libraries)
+*-backups/
+*.lck
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Common OS and editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/*.log
+~$*
