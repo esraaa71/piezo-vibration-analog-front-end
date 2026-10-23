@@ -90,13 +90,13 @@ The single RC low-pass has theoretical corner `1/(2π · 10kΩ · 10nF) ≈ 1.59
 
 ## Repository guide
 
-- [Project requirements](01_Research/Project_Requirements.md)
-- [Engineering log](docs/Engineering_Log.md)
-- [Simulation notes](docs/Simulation_Results.md)
-- [Design and test plan](docs/Validation_Plan.md)
+- [Project requirements](Project_Requirements.md)
+- [Engineering log](Engineering_Log.md)
+- [Simulation notes](Simulation_Results.md)
+- [Design and test plan](Validation_Plan.md)
 - [Change history](CHANGELOG.md)
-- [Source references](01_Research/References.md)
-- [How to update the project](docs/Update_Workflow.md)
+- [Source references](References.md)
+- [How to update the project](Update_Workflow.md)
 
 **Important:** The screenshots are provided here, but the actual `.asc` circuit file must be copied from the author's own LTspice project folder into `03_LTspice/` before it can be downloaded or reproduced by others.
 
