@@ -35,7 +35,7 @@ Design and validate a 5 V analog front end that conditions the charge generated 
 
 Note: I1 || Cs is a **simplified electrical model**. It does not reproduce the sensor's full mechanical frequency response, mounting behavior, resonance, or calibration. The proposed LDT0-028K is not yet physically tested.
 
-![LTspice schematic with U1 reference buffer, U2 charge amplifier, and first RC output filter followed by U3](media/current_signal_chain.png)
+![LTspice schematic with U1 reference buffer, U2 charge amplifier, and first RC output filter followed by U3](current_signal_chain.png)
 
 ## Initial design targets (not yet verified hardware performance)
 
