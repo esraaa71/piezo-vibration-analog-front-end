@@ -63,9 +63,9 @@ Note: I1 || Cs is a **simplified electrical model**. It does not reproduce the s
 7. **AC analysis:** Swept 1 Hz–100 kHz. A previously read cursor magnitude was ~−9.66 dBV around 15.4 Hz for the current-source-driven charge-amplifier response; remeasurement and normalizing to input charge are part of ongoing validation.
 8. **Output filter:** Added a 10 kΩ / 10 nF passive RC low-pass and plotted V(filtered)/V(charge_out) to isolate the filter transfer response; added U3 as a filter-output buffer.
 
-![LTspice transient waveform and schematic](media/charge_amplifier_transient.png)
+![LTspice transient waveform and schematic](charge_amplifier_transient.png)
 
-![LTspice AC traces showing the filter ratio in red](media/filter_ac_response.png)
+![LTspice AC traces showing the filter ratio in red](filter_ac_response.png)
 
 ## Work not yet completed
 
