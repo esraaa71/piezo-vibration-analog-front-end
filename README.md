@@ -178,16 +178,6 @@ These results apply to the **earlier LTspice design**, not automatically to the 
 - [x] 3D PCB visualization and test-point labeling
 - [x] Technical documentation and image-based project history
 
-## Pending validation and next steps
-
-- [ ] Align the final EasyEDA schematic with the final LTspice simulation values and verify operation
-- [ ] Review unused AD8608 section termination and local supply decoupling
-- [ ] Verify the battery voltage range, diode/fuse coordination, regulator dropout, and thermal limits
-- [ ] Design and validate safe, low-leakage sensor-input protection
-- [ ] Test amplifier stability, noise, output loading, and component tolerances
-- [ ] Run schematic electrical-rule check (ERC) and PCB design-rule check (DRC)
-- [ ] Export and review manufacturing files and bill of materials (BOM)
-- [ ] Fabricate, assemble, and bench-test the PCB with a real piezoelectric sensor
 
 **Design-stage disclaimer:** The current schematic, calculations, and screenshots do not establish safety or manufacturing readiness. The PCB has not been assembled, electrically verified, or calibrated.
 
